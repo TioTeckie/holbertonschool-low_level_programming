@@ -2,6 +2,7 @@
 
 /*
 * main - Entry point
+* This function is the entry point of the program.
 * Return: Always 0 (Success)
 */
 int main(void)
